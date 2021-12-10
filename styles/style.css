@@ -34,9 +34,14 @@ button {
     margin-bottom: 10px;
 }
 
+.card {
+    display: inline-block;
+    background-color: coral;
+    border: 1px solid red;
+}
+
 .table {
     width: calc(100% - 250px);
-    background-color: coral;
     height: 90vh;
 }
 
